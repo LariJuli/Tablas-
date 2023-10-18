@@ -8,7 +8,7 @@
 </br> 
 <table border = "2"> 
 <tr> 
-  <td rowspan="4">Recursos</td><td colspan= "4"> Tablita</td>
+  <td rowspan="4">Datos</td><td colspan= "4"> Tablita</td>
   </tr>
   <tr>
     <td>Nombres</td><td>Larita</td><td>Julita</td><td>Vero</td>
